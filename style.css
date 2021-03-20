@@ -1,0 +1,144 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
+
+p{
+font-family: Roboto;
+}
+
+.div1t{
+	position: absolute;
+	width: 207px;
+	height: 28px;
+	left: 135px;
+	top: 36px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+}
+.div3t	
+	{
+	width: 318px;
+	height: 28px;
+	left: 444px;
+	top: 36px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 28px;
+	color: #FFFFFF;
+	
+	a:link {
+    color: #0000d0; /* Ð¦Ð²ÐµÑ‚ ÑÑÑ‹Ð»Ð¾Ðº */
+    padding: 2px; /* ÐŸÐ¾Ð»Ñ Ð²Ð¾ÐºÑ€ÑƒÐ³ Ñ‚ÐµÐºÑÑ‚Ð° */ 
+	}
+	a:hover {
+    background: #786b59; /* Ð¦Ð²ÐµÑ‚ Ñ„Ð¾Ð½Ð° Ð¿Ð¾Ð´ ÑÑÑ‹Ð»ÐºÐ¾Ð¹ */ 
+    color: #ffe; /* Ð¦Ð²ÐµÑ‚ ÑÑÑ‹Ð»ÐºÐ¸ */ 
+	}
+}
+	
+.verh{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	display: flex;
+	align-items: center;
+	color: #FF0000;
+}
+.logo{
+	width: 81px;
+	height: 75px;
+	left: 29px;
+	top: 13px;
+}
+.div1{ 
+	font-family: Roboto;
+	width: 407px;
+	height: 100px;
+	left: 0px;
+	top:46px;
+	background: #FFFFFF;
+}
+.div2{
+	position: absolute;
+	width: 5px;
+	height: 100px;
+	left: 408px;
+	top: 32px;
+	background: #FCDE06;
+}
+.div3{  
+font-family: Roboto;  
+    position: absolute;
+	width: 1027px;
+	height: 100px;
+	left: 413px;
+	top: 32px;
+	background: #0052D0;
+}
+.categories {
+	left: 100px;
+	height: 100%;
+	clear: left;
+	background: #ffffff;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 31px;
+	color: #000000;
+}
+.code{
+	background: #F2C94C;
+	border-radius: 7px;
+	padding: 7px;
+}
+
+.pole{
+	width: 362px;
+	height: 45px;
+	left: 42px;
+	top: 1168px;
+	background: #F4ECEC;
+	border: 1px solid #B8B8B8;
+	box-sizing: border-box;
+	border-radius: 5px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: #ACACAC;
+}
+
+.left{
+	width: 70%;
+	left: 0;
+}
+.right{
+	width: 30%;
+	right: 0;
+}
+
+.button{
+	width: 362px;
+	height: 45px;
+	left: 43px;
+	top: 1413px;
+	background: #0052D0;
+	border-radius: 5px;
+	border: none;
+	padding: 10px 25px;
+	color: white;
+	float: left;
+}
